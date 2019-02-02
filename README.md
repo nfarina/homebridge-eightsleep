@@ -1,5 +1,11 @@
 # Eight Sleep Accessory
 
+## Installation
+
+    [sudo] npm install -g homebridge-eightsleep
+
+## Configuring
+
 Example config.json:
 
     {
