@@ -17,8 +17,7 @@ Example config.json:
       ]
     }
 
-Exposes the bed preheating function. The "owner" is just the person
-linked to the email/password given. The `heat_percent` and `heat_minutes`
+Exposes the bed preheating function. The `heat_percent` and `heat_minutes`
 control what happens when you turn on the heat.
 
 If you use the example above, you would gain Siri commands like:
