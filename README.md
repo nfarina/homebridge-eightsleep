@@ -16,7 +16,7 @@ Example config.json:
           "left": "Nick's Bed",
           "right": "Nancy's Bed",
           "heat_percent": 90,
-          "heat_minutes": 15,
+          "heat_minutes": 30,
           "email": "bobs@burgers.com",
           "password": "bobbobbaran"
         }
@@ -28,7 +28,7 @@ control what happens when you turn on the heat.
 
 If you use the example above, you would gain Siri commands like:
 
-- _"Turn on the Master Bed"_ (Preheat both sides of the mattress for 15 minutes at 90%)
+- _"Turn on the Master Bed"_ (Preheat both sides of the mattress for 30 minutes at 90%)
 - _"Turn on Nick's Bed"_ (Preheat just the left side - this is optional; you can omit left/right in your config)
 
 Note that "left" and "right" are from the perspective of when you are standing

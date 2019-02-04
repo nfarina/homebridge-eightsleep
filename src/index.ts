@@ -50,7 +50,7 @@ class EightSleepAccessory {
     this.right = config["right"];
     this.device = config["device"];
     this.heat_percent = Number(config["heat_percent"] || 90); // default 90%
-    this.heat_minutes = Number(config["heat_minutes"] || 15); // default 15 mins
+    this.heat_minutes = Number(config["heat_minutes"] || 30); // default 30 mins
     this.email = config["email"];
     this.password = config["password"];
 
