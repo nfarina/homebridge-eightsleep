@@ -8,7 +8,7 @@ import {
 
 const fetch = require("node-fetch");
 
-const API_URL = "https://app-api.8slp.net/v1";
+const API_URL = "https://client-api.8slp.net/v1";
 
 async function api<T>({
   method = "GET",
